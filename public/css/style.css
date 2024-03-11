@@ -1,0 +1,122 @@
+#navWord {
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.map {
+  width: 900px;
+  height: 500px;
+  margin-left: 1%;
+}
+
+.brandDescription {
+  word-wrap: break-word;
+  margin-left: 1%;
+  width: 900px;
+  text-align: left;
+}
+
+.welcome-container {
+  text-align: left;
+  margin-bottom: 50px;
+  margin-left: 2%;
+}
+
+.welcomeImg {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.titleHome {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: #6e4f3f;
+}
+
+#titleHomeWelcome {
+  margin-bottom: 1%;
+  margin-left: 2%;
+  text-align: left;
+  color: #6e4f3f;
+}
+
+.bodyMargin {
+  margin-left: 2%;
+}
+
+.inputLog {
+  height: 45px;
+}
+
+#titleCart {
+  text-align: left;
+  color: #6e4f3f;
+}
+
+.photoInCart {
+  width: 20%;
+  display: inline-block;
+}
+
+.container {
+  vertical-align: middle;
+}
+.cards {
+  display: inline-block;
+}
+
+#cardProduct {
+  margin-bottom: 3%;
+  border: 1px solid rgb(255, 238, 230);
+  width: 100%;
+  height: auto;
+}
+
+.textCard {
+  margin-left: 5%;
+  display: inline-block;
+  width: 50%;
+  height: 90%;
+  justify-content: center;
+}
+
+.btnDelInCart {
+  float: inline-end;
+  margin-right: 2%;
+}
+
+.catalogCards {
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.products {
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 2%;
+}
+
+.jumbotron{
+  text-align: center;
+  width: 50%;
+  height: auto;
+  margin: 1% 7%;
+}
+
+.descriptionCard{
+  display: flex;
+}
+
+#nameAndPrice{
+  color: #6e4f3f;
+}
+
+.detailsImg{
+  width: 800px;
+  margin-left: 2%;
+}
